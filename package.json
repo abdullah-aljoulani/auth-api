@@ -8,7 +8,7 @@
     "db:config": "sequelize init:config",
     "db:create": "sequelize db:create",
     "test-watch": "NODE_ENV=test jest --verbose --coverage --watchAll",
-    "test": "NODE_ENV=test jest  --verbose --coverage"
+    "test": "NODE_ENV=test jest  --verbose --coverage "
   },
   "keywords": [],
   "author": "",
